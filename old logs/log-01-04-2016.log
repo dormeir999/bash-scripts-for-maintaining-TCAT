@@ -1,0 +1,81 @@
+n
+Fri Apr  1 03:00:01 IDT 2016
+Starting backup:
+Finished creating backup. Uploading to drive:
+/backup/TCAT_backup.sh: line 10: drive: command not found
+Finished uploading to drive. Removing old files:
+Ending backup.n
+n
+Fri Apr  1 15:56:32 IDT 2016
+Starting backup:
+Finished creating backup. Uploading to drive:
+./TCAT_backup.sh: line 10: /usr/local/bin/drivee: No such file or directory
+Finished uploading to drive. Removing old files:
+Ending backup.n
+n
+Fri Apr  1 15:57:34 IDT 2016
+Starting backup:
+Finished creating backup. Uploading to drive:
+Id: 0B93phP0Pe_ByOUU5Z0R2WlotR28
+Title: alldata-01-04-2016.sql.gz
+Size: 78.1 MB
+Created: 2016-04-01 15:57:55
+Modified: 2016-04-01 15:57:55
+Owner: Dor Meir
+Md5sum: e30c04af3b5472c6ac1fcf1111d04cea
+Shared: False
+Parents: 0AN3phP0Pe_ByUk9PVA
+MIME Type: application/gzip
+Uploaded 'alldata-01-04-2016.sql.gz' at 9.8 MB/s, total 78.1 MB
+Finished uploading to drive. Removing old files:
+Ending backup.n
+n
+Fri Apr  1 15:58:30 IDT 2016
+Starting backup:
+Finished creating backup. Uploading to drive:
+Id: 0B93phP0Pe_ByZzFJREFTb3RSZzQ
+Title: alldata-01-04-2016.sql.gz
+Size: 78.1 MB
+Created: 2016-04-01 15:58:50
+Modified: 2016-04-01 15:58:50
+Owner: Dor Meir
+Md5sum: 11e40c38914233c60045221a26864bba
+Shared: False
+Parents: 0AN3phP0Pe_ByUk9PVA
+MIME Type: application/gzip
+Uploaded 'alldata-01-04-2016.sql.gz' at 8.7 MB/s, total 78.1 MB
+Finished uploading to drive. Removing old files:
+Ending backup. n
+nFri Apr  1 16:00:26 IDT 2016
+Starting backup:
+Finished creating backup. Uploading to drive:
+Id: 0B93phP0Pe_ByRkp5VnJIR0FBS28
+Title: alldata-01-04-2016.sql.gz
+Size: 78.1 MB
+Created: 2016-04-01 16:00:49
+Modified: 2016-04-01 16:00:49
+Owner: Dor Meir
+Md5sum: 1ad84c7bbbee0f69c7e9816530f70fb4
+Shared: False
+Parents: 0AN3phP0Pe_ByUk9PVA
+MIME Type: application/gzip
+Uploaded 'alldata-01-04-2016.sql.gz' at 7.8 MB/s, total 78.1 MB
+Finished uploading to drive. Removing old files:
+Ending
+Fri Apr  1 16:02:59 IDT 2016
+Starting backup:
+Finished creating backup, named: /backup/alldata-01-04-2016.sql.gz. Uploading to drive:
+Id: 0B93phP0Pe_BySVYzcnpTZjNSMU0
+Title: alldata-01-04-2016.sql.gz
+Size: 78.1 MB
+Created: 2016-04-01 16:03:22
+Modified: 2016-04-01 16:03:22
+Owner: Dor Meir
+Md5sum: 0b2db233d74a43b341c32c2c522e6341
+Shared: False
+Parents: 0AN3phP0Pe_ByUk9PVA
+MIME Type: application/gzip
+Uploaded 'alldata-01-04-2016.sql.gz' at 8.7 MB/s, total 78.1 MB
+Finished uploading to drive. Removing old files:
+Ending backup.
+

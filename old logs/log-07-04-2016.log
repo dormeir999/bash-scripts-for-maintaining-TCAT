@@ -1,0 +1,18 @@
+
+Thu Apr  7 03:00:01 IDT 2016
+Starting backup:
+Finished creating backup, named: /backup/alldata-07-04-2016.sql.gz. Uploading to drive:
+Id: 0B93phP0Pe_ByajBRUkhBSmh5QlE
+Title: alldata-07-04-2016.sql.gz
+Size: 33.8 MB
+Created: 2016-04-07 03:00:15
+Modified: 2016-04-07 03:00:15
+Owner: Dor Meir
+Md5sum: 6305937608478874969b56e2a213eec3
+Shared: False
+Parents: 0AN3phP0Pe_ByUk9PVA
+MIME Type: application/gzip
+Uploaded 'alldata-07-04-2016.sql.gz' at 6.8 MB/s, total 33.8 MB
+Finished uploading to drive. Removing old files:
+The backup has ended.
+
